@@ -39,7 +39,7 @@ In a hypothetical scenario, customer Ken, for instance, is creating a ticket wit
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The customer's ticket is showcaaed on the agent panel which will be under review by agents. The Queue manager will allocate priority tickets and proper SLAs to the appropriate agent. 
+The customer's ticket is showcased on the agent panel which will be under review by agents. The Queue manager will allocate priority tickets and proper SLAs to the appropriate agent. 
 </p>
 <br />
 
