@@ -28,15 +28,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.io/u4moWGb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In a hypothetical scenario, customer Ken, for instance, is creating a ticket with the help topic "Business Critical Outage" due to issue summary of inaccessibility to mobile banking.
+In a hypothetical scenario, customer Karen, for instance, is creating a ticket with the help topic "Business Critical Outage" due to issue summary of inaccessibility to mobile banking.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.io/zWp0SGf_d.webp?maxwidth=640&shape=thumb&fidelity=medium" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The customer's ticket is showcased on the agent panel which will be under review by agents. The Queue manager will allocate priority tickets and proper SLAs to the appropriate agent. 
@@ -44,7 +44,7 @@ The customer's ticket is showcased on the agent panel which will be under review
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.io/hJZ0CkE_d.webp?maxwidth=640&shape=thumb&fidelity=medium" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The SLA plan and the priority level of the ticket can be adjusted depending on the severity of the issue. For this randomized scenario, the priority level is modified to "Emergency" along with the customized SLA plan, SEV-A, which indicates the issue will significantly impact a business if not resolved immediately. In some cases, the customers can stipulate a designated SLA plan for the agent.
